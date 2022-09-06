@@ -143,8 +143,8 @@ body {
     }
     
     .banner-box {
-        margin-bottom: 2rem;
         width: 20rem;
+        margin: 0 0 2rem;
     }
     
     .supervisor-box, .karma-box {
