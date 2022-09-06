@@ -90,11 +90,11 @@ body {
     justify-content: center;
     gap: 2rem;
     flex-wrap: wrap;
-    margin: 3rem 0 0;
+    margin: 4rem 0 0;
 }
 
 .banner-box {
-    background-color: var(--light-gray);
+    background-color: var(--white);
     box-shadow: 4px 2px 8px var(--bs-cls);
     border-radius: 8px;
     padding: 1.4rem 2rem;
