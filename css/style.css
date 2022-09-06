@@ -138,12 +138,13 @@ body {
     }
 
     .card-description {
-        max-width: 20rem;
+        width: 20rem;
     }
     
     .banner-box {
         margin: 0 0 1.5rem;
         width: 20rem;
+        max-width: 20rem;
     }
     
     .supervisor-box, .calculator-box {
@@ -159,4 +160,3 @@ body {
         padding: 3rem 0 0;
     }
 }
-/* --- ---- --- */
